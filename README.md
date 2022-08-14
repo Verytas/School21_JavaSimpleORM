@@ -1,1 +1,1 @@
-# School21_JavaSimpleORM
+Simple ORM implementation.
